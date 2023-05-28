@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FNAF-1/static/css/main.74f31fa5.css",
-    "main.js": "/FNAF-1/static/js/main.1f66aa35.js",
+    "main.js": "/FNAF-1/static/js/main.7f4a5282.js",
     "static/media/Freddy-Jumpscare1.gif": "/FNAF-1/static/media/Freddy-Jumpscare1.b2a60852f029c5799344.gif",
     "static/media/Foxy-Jumpscare.gif": "/FNAF-1/static/media/Foxy-Jumpscare.92b454c50d2cd9355658.gif",
     "static/media/FNAF.webp": "/FNAF-1/static/media/FNAF.94867c30d2d9e5cdb96a.webp",
@@ -92,10 +92,10 @@
     "static/media/put down.mp3": "/FNAF-1/static/media/put down.8ce39e3a45485ccf14cb.mp3",
     "static/media/blip3.mp3": "/FNAF-1/static/media/blip3.6efd12cd761b63b4fe7f.mp3",
     "main.74f31fa5.css.map": "/FNAF-1/static/css/main.74f31fa5.css.map",
-    "main.1f66aa35.js.map": "/FNAF-1/static/js/main.1f66aa35.js.map"
+    "main.7f4a5282.js.map": "/FNAF-1/static/js/main.7f4a5282.js.map"
   },
   "entrypoints": [
     "static/css/main.74f31fa5.css",
-    "static/js/main.1f66aa35.js"
+    "static/js/main.7f4a5282.js"
   ]
 }

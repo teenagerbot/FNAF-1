@@ -11,7 +11,7 @@ Uma versão na Web que eu fiz do famoso jogo de terror [Five Nights at Freddy's]
 ## VERSION 3.0 ⭐
 - Added custom night!
 
-~ Link: [https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/](https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/)
+~ Link: https://teenagerbot.github.io/FNAF-1/
 
 ![Five Nights at Freddy's](FNAF.webp)
 

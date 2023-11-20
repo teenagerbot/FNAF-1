@@ -31,7 +31,3 @@ Then start localhost
 ```
 npm start
 ```
-
-## Credits
-
-This project was made by Wendell Sousa :D
